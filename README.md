@@ -40,7 +40,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="C" width="26px" src="https://camo.githubusercontent.com/92ea2ae329c080e1d851d6ad12aeb4ca15a814f980e742318ec3ae1262249926/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d63" />
 <img align="left" alt="C++" width="26px" src="https://camo.githubusercontent.com/49bd668a4b89508b88508c17e2dda85f96108a1d644e69eaed828dbb4e0a95d5/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637070" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
