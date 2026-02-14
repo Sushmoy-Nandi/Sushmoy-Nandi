@@ -65,7 +65,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sushmoy-Nandi&theme=transparent" height="180em" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sushmoy-Nandi&theme=transparent" height="180em" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sushmoy-Nandi&theme=transparent" height="180em" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HSushmoy-Nandi&theme=transparent" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sushmoy-Nandi&theme=transparent" height="180em" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushmoy-Nandi&theme=transparent" height="180em" />
   </a>
 </div>
