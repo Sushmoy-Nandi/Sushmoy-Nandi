@@ -78,9 +78,5 @@
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=Sushmoy-Nandi)](https://git.io/streak-stats)
 
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sushmoy-Nandi&label=Profile%20Views&color=blueviolet&style=for-the-badge" height="35" alt="Profile Views" />
-</p>
-
 
 
