@@ -49,16 +49,40 @@
 <br />
 
 ---
-  ### :zap: GitHub Stats
-  <br/>
-  <img align="center" alt="Sushmoy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sushmoy-nandi&show_icons=true&theme=tokyonight" />
-<br />
+ ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"> **GITHUB STATISTICS & ANALYSIS:**
 
 ---
-  
-  <img align="center"  alt="Sakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushmoy-nandi&show_icons=true" />
 
+ <div align="center">
 
-[facebook]: https://www.facebook.com/bappi.nondi.5
+<!-- Divider GIF -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3><img src="https://media.giphy.com/media/ZcnpXLn9Z4Vf6/giphy.gif" width="32">Statistics</h3>
+
+<!-- Summary Cards -->
+<div align="center">
+  <a href="https://github.com/Sushmoy-Nandi">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sushmoy-Nandi&theme=transparent" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sushmoy-Nandi&theme=transparent" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sushmoy-Nandi&theme=transparent" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HSushmoy-Nandi&theme=transparent" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushmoy-Nandi&theme=transparent" height="180em" />
+  </a>
+</div>
+
+<!-- Activity Graph -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="left">⚡Activity Graph:</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushmoy-Nandi&theme=lucent" alt="Activity Graph for Sushmoy-Nandi" />
+</p>
+
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Sushmoy-Nandi)](https://git.io/streak-stats)
+
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sushmoy-Nandi&label=Profile%20Views&color=blueviolet&style=for-the-badge" height="35" alt="Profile Views" />
+</p>
+
 
 
